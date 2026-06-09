@@ -1,0 +1,19 @@
+{
+  "title": "Dangerous: XSS",
+  "pages": [
+    {
+      "title": "XSS Corpus",
+      "content": "Xss/Readme.md",
+      "subpages": [
+        { "title": "Script Tags", "content": "Xss/Script-Tags.md", "subpages": [] },
+        { "title": "Event Handlers", "content": "Xss/Event-Handlers.md", "subpages": [] },
+        { "title": "URL Schemes", "content": "Xss/Url-Schemes.md", "subpages": [] },
+        { "title": "Embedded Content", "content": "Xss/Embedded-Content.md", "subpages": [] },
+        { "title": "Style Injection", "content": "Xss/Style-Injection.md", "subpages": [] },
+        { "title": "Meta And Base", "content": "Xss/Meta-And-Base.md", "subpages": [] },
+        { "title": "Form Phishing", "content": "Xss/Form-Phishing.md", "subpages": [] },
+        { "title": "Link Text Injection", "content": "Xss/Link-Text-Injection.md", "subpages": [] }
+      ]
+    }
+  ]
+}

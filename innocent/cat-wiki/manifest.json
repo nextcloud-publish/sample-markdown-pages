@@ -1,0 +1,59 @@
+{
+  "title": "Test",
+  "pages": [
+    {
+      "title": "Test",
+      "content": "Test/Readme.md",
+      "subpages": [
+        {
+          "title": "Subpage",
+          "content": "Test/Subpage/Readme.md",
+          "subpages": [
+            {
+              "title": "Subsubpage",
+              "content": "Test/Subpage/Subsubpage.md",
+              "subpages": []
+            },
+            {
+              "title": "Gallery",
+              "content": "Test/Subpage/Gallery.md",
+              "subpages": []
+            },
+            {
+              "title": "Markdown Hacks",
+              "content": "Test/Subpage/Markdown-Hacks.md",
+              "subpages": []
+            }
+          ]
+        },
+        {
+          "title": "Anatomy",
+          "content": "Test/Anatomy/Readme.md",
+          "subpages": [
+            {
+              "title": "Claws",
+              "content": "Test/Anatomy/Claws.md",
+              "subpages": []
+            },
+            {
+              "title": "Yawning",
+              "content": "Test/Anatomy/Yawning.md",
+              "subpages": []
+            }
+          ]
+        },
+        {
+          "title": "Reference",
+          "content": "Test/Reference/Readme.md",
+          "subpages": [
+            {
+              "title": "Glossary",
+              "content": "Test/Reference/Glossary.md",
+              "subpages": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

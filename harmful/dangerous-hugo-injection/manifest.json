@@ -1,0 +1,15 @@
+{
+  "title": "Dangerous: Hugo Injection",
+  "pages": [
+    {
+      "title": "Hugo Injection Probes",
+      "content": "Hugo/Readme.md",
+      "subpages": [
+        { "title": "Undefined Shortcode", "content": "Hugo/Undefined-Shortcode.md", "subpages": [] },
+        { "title": "Inline Shortcode", "content": "Hugo/Inline-Shortcode.md", "subpages": [] },
+        { "title": "Ref Missing", "content": "Hugo/Ref-Missing.md", "subpages": [] },
+        { "title": "Template Literals", "content": "Hugo/Template-Literals.md", "subpages": [] }
+      ]
+    }
+  ]
+}

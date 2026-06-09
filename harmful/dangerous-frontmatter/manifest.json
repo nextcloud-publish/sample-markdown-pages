@@ -1,0 +1,26 @@
+{
+  "title": "Dangerous: <script>alert('site-title')</script>",
+  "pages": [
+    {
+      "title": "Front Matter Injection",
+      "content": "Fm/Readme.md",
+      "subpages": [
+        {
+          "title": "<script>alert('page-title-xss')</script>",
+          "content": "Fm/Yaml-Override.md",
+          "subpages": []
+        },
+        {
+          "title": "Quote \" and <b>bold</b> title",
+          "content": "Fm/Toml-Override.md",
+          "subpages": []
+        },
+        {
+          "title": "<img src=x onerror=alert('title-onerror')>",
+          "content": "Fm/Json-Override.md",
+          "subpages": []
+        }
+      ]
+    }
+  ]
+}
