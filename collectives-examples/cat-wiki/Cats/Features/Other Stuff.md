@@ -79,14 +79,8 @@ disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
 
 ## Upload-Felder
 
-| Field | Type | Description |
-|-------|------|-------------|
-| `files[]` | multipart | Markdown file content (one per page) |
-| `paths[]` | string | Parallel array of relative paths matching manifest `content` |
-| `manifest` | JSON | Hierarchy tree defining page structure |
-
-## Siehe auch
-
-- Zurück zur [Subpage](Test/Subpage/Readme.md)
-- Begriffe im [Glossary](Test/Reference/Glossary.md)
-- Bilder in der [Gallery](Test/Subpage/Gallery.md)
+| Field      | Type      | Description                                                  |
+|------------|-----------|--------------------------------------------------------------|
+| `files[]`  | multipart | Markdown file content (one per page)                         |
+| `paths[]`  | string    | Parallel array of relative paths matching manifest `content` |
+| `manifest` | JSON      | Hierarchy tree defining page structure                       |

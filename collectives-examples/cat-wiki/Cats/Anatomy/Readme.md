@@ -1,6 +1,6 @@
 # Anatomie
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Catpaw.jpg/250px-Catpaw.jpg" alt="Katzenpfote mit ausgefahrenen Krallen" style="float:left; margin:0 1rem 1rem 0; max-width:35%;" />
+![Catpaw.jpg](.attachments.13228622/Catpaw.jpg)
 
 Die Anatomie der Hauskatze ist auf **Jagd, Klettern und Balance** spezialisiert. Von den einziehbaren Krallen über die flexible Wirbelsäule bis zu den hochsensiblen Schnurrhaaren — jedes Merkmal erfüllt eine spezifische Funktion im Alltag eines Raubtiers.
 
@@ -8,15 +8,13 @@ Die Pfote im Bild zeigt die Krallen in ausgefahrenem Zustand. Normalerweise ruhe
 
 Katzen besitzen 18 Zehen insgesamt — fünf an jeder Vorderpfote (inklusive Daumenzehe) und vier an jeder Hinterpfote. Die vordere Daumenzehe (*dewclaw*) ist nicht mit dem Boden in Kontakt und hilft beim Festhalten von Beute.
 
-<div style="clear:both;"></div>
-
 ## Vergleich: Krallen, Zähne, Schnurrhaare
 
-| Feature | Function | Retractable | Sensitivity |
-|---------|----------|-------------|-------------|
-| Claws | Climbing, hunting, defense | yes | medium (touch via paw pads) |
-| Teeth | Gripping prey, grooming | no | low |
-| Whiskers | Spatial awareness, navigation | no | very high (follicle receptors) |
+| Feature  | Function                      | Retractable | Sensitivity                    |
+|----------|-------------------------------|-------------|--------------------------------|
+| Claws    | Climbing, hunting, defense    | yes         | medium (touch via paw pads)    |
+| Teeth    | Gripping prey, grooming       | no          | low                            |
+| Whiskers | Spatial awareness, navigation | no          | very high (follicle receptors) |
 
 ## Unterseiten
 
