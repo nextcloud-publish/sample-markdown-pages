@@ -1,0 +1,79 @@
+{
+  "title": "Sample Markdown pages",
+  "pages": [
+    {
+      "title": "Sample Markdown pages",
+      "content": "Readme.md",
+      "subpages": [
+        {
+          "title": "Cats",
+          "content": "Cats/Readme.md",
+          "subpages": [
+            {
+              "title": "Anatomy",
+              "content": "Cats/Anatomy/Readme.md",
+              "subpages": [
+                {
+                  "title": "Claws",
+                  "content": "Cats/Anatomy/Claws.md",
+                  "subpages": []
+                },
+                {
+                  "title": "Yawning",
+                  "content": "Cats/Anatomy/Yawning.md",
+                  "subpages": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Features",
+          "content": "Features/Readme.md",
+          "subpages": [
+            {
+              "title": "File references",
+              "content": "Features/File references.md",
+              "subpages": []
+            },
+            {
+              "title": "Images",
+              "content": "Features/Images.md",
+              "subpages": []
+            },
+            {
+              "title": "Markdown Hacks",
+              "content": "Features/Markdown Hacks.md",
+              "subpages": []
+            },
+            {
+              "title": "Mentions",
+              "content": "Features/Mentions.md",
+              "subpages": []
+            },
+            {
+              "title": "Multiline table",
+              "content": "Features/Multiline table.md",
+              "subpages": []
+            },
+            {
+              "title": "Other Stuff",
+              "content": "Features/Other Stuff.md",
+              "subpages": []
+            },
+            {
+              "title": "Page references",
+              "content": "Features/Page references.md",
+              "subpages": []
+            }
+          ]
+        },
+        {
+          "title": "Javascript and HTML",
+          "content": "Javascript and HTML/Readme.md",
+          "subpages": []
+        }
+      ]
+    }
+  ]
+}
