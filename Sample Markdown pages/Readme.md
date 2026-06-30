@@ -1,0 +1,1 @@
+These pages provide examples of all markdown features to be tested in our Nextcloud Publish development. The cats folder’s purpose is to show a nested file structure. Furthermore, there is a features folder, where we collect all the features markdown documents in Collectives offer. 

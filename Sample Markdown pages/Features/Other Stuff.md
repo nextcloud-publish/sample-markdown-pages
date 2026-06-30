@@ -1,3 +1,11 @@
+# What about maths?
+
+> 💡 Das **Lemma von Fatou** (nach [Pierre Fatou](https://de.wikipedia.org/wiki/Pierre_Fatou "Pierre Fatou")) erlaubt in der [Mathematik](https://de.wikipedia.org/wiki/Mathematik "Mathematik"), das [Lebesgue-Integral](https://de.wikipedia.org/wiki/Lebesgue-Integral "Lebesgue-Integral") des [Limes inferior](https://de.wikipedia.org/wiki/Limes_inferior "Limes inferior") einer [Funktionenfolge](https://de.wikipedia.org/wiki/Funktionenfolge "Funktionenfolge") durch den Limes inferior der Folge der zugehörigen Lebesgue-Integrale nach oben abzuschätzen. Es liefert damit eine Aussage über die Vertauschbarkeit von [Grenzwertprozessen](https://de.wikipedia.org/wiki/Grenzwert_\(Folge\) "Grenzwert (Folge)").
+
+$\int_X \liminf_{n\to\infty} f_n \, d\mu \;\leq\; \liminf_{n\to\infty} \int_X f_n \, d\mu$
+
+<br/>
+
 # Code & Daten
 
 Diese Seite hält nicht mehr nur einfachen Text fest, sondern demonstriert **syntaxhervorgehobene Code-Blöcke**, strukturierte Tabellen und Querverweise zu anderen Seiten im Collective.

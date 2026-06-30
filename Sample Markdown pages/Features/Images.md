@@ -1,5 +1,3 @@
-# Galerie
-
 Diese Seite zeigt alle sechs Wikimedia-Bilder in verschiedenen Markdown- und HTML-Formaten.
 
 ## Dreifarbige Katze (Calico)
